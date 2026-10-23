@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6eaf9a7b-655d-4573-9c25-af5d9fea6c58",
+  "path": "android-permissions-security",
+  "path_key": "android-permissions-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "security\\android-permissions-security",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c31e913-0c00-49af-9f9b-7cc515291650",
+  "path": "jetpack-compose-performance",
+  "path_key": "jetpack-compose-performance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "jetpack-compose\\jetpack-compose-performance",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2140b62-c43f-4a24-a689-a2d98b071edc",
+  "path": "glance-canonical-layouts",
+  "path_key": "glance-canonical-layouts",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "system\\glance-canonical-layouts",
+    "branch": null
+  }
+}

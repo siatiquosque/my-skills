@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "44b2956e-9449-4873-b217-ec148ed6e6b3",
+  "path": "verified-email",
+  "path_key": "verified-email",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "identity\\verified-email",
+    "branch": null
+  }
+}

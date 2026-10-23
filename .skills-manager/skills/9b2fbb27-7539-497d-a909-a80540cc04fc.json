@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b2fbb27-7539-497d-a909-a80540cc04fc",
+  "path": "kotlin-concurrency-and-flow",
+  "path_key": "kotlin-concurrency-and-flow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "chrisbanes/skills/kotlin-concurrency-and-flow",
+    "subpath": "skills\\kotlin-concurrency-and-flow",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "83a23dbf-06d6-45b0-b82e-eee35ccb096a",
+  "path": "javascript-testing-patterns",
+  "path_key": "javascript-testing-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "wshobson/agents/javascript-testing-patterns",
+    "subpath": "plugins\\javascript-typescript\\skills\\javascript-testing-patterns",
+    "branch": null
+  }
+}

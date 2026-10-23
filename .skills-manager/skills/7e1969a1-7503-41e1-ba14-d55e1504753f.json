@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e1969a1-7503-41e1-ba14-d55e1504753f",
+  "path": "android-intent-security",
+  "path_key": "android-intent-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "security\\android-intent-security",
+    "branch": null
+  }
+}

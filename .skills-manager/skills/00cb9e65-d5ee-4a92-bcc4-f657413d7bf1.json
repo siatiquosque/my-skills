@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "00cb9e65-d5ee-4a92-bcc4-f657413d7bf1",
+  "path": "restore-credentials",
+  "path_key": "restore-credentials",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "identity\\restore-credentials",
+    "branch": null
+  }
+}

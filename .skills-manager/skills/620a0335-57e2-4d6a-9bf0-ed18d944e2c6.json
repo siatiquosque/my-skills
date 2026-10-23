@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "620a0335-57e2-4d6a-9bf0-ed18d944e2c6",
+  "path": "litert-lm",
+  "path_key": "litert-lm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "device-ai\\litert\\litert-lm",
+    "branch": null
+  }
+}

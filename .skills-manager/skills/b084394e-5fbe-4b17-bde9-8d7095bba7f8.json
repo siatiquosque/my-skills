@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b084394e-5fbe-4b17-bde9-8d7095bba7f8",
+  "path": "kotlin-coroutines-flows",
+  "path_key": "kotlin-coroutines-flows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "affaan-m/ecc/kotlin-coroutines-flows",
+    "subpath": "skills\\kotlin-coroutines-flows",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "75344e48-b69f-4df8-86e2-881772cd1c44",
+  "path": "swift-testing-pro",
+  "path_key": "swift-testing-pro",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "twostraws/swift-testing-agent-skill/swift-testing-pro",
+    "subpath": "swift-testing-pro",
+    "branch": null
+  }
+}

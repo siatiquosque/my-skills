@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "67cbb4df-430c-4589-84c6-3d7a1d365496",
+  "path": "wear-compose-m3",
+  "path_key": "wear-compose-m3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "wear\\wear-compose-m3",
+    "branch": null
+  }
+}

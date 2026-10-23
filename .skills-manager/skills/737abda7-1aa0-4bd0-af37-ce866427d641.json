@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "737abda7-1aa0-4bd0-af37-ce866427d641",
+  "path": "litert-runtime",
+  "path_key": "litert-runtime",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "device-ai\\litert\\litert-runtime",
+    "branch": null
+  }
+}

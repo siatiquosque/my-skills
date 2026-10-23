@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3515bdb3-a560-4ac9-bb26-5a084061924a",
+  "path": "styles",
+  "path_key": "styles",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "jetpack-compose\\theming\\styles",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "80504aa8-9823-4050-8d69-57f95df65340",
+  "path": "leanback-to-compose-tv-migration",
+  "path_key": "leanback-to-compose-tv-migration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "tv\\leanback-to-compose-tv-migration",
+    "branch": null
+  }
+}

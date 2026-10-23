@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33ac520a-c26e-4d4b-8475-9161be781bf2",
+  "path": "android-profiler",
+  "path_key": "android-profiler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "profilers\\android-profiler",
+    "branch": null
+  }
+}

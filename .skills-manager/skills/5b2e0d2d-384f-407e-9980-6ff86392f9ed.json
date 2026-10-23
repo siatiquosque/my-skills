@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b2e0d2d-384f-407e-9980-6ff86392f9ed",
+  "path": "wear-widgets",
+  "path_key": "wear-widgets",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "wear\\wear-widgets",
+    "branch": null
+  }
+}

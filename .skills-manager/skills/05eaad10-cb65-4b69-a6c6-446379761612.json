@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "05eaad10-cb65-4b69-a6c6-446379761612",
+  "path": "engage-sdk-integration",
+  "path_key": "engage-sdk-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "play\\engage-sdk-integration",
+    "branch": null
+  }
+}

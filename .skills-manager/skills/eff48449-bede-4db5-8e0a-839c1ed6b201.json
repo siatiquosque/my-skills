@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eff48449-bede-4db5-8e0a-839c1ed6b201",
+  "path": "agp-9-upgrade",
+  "path_key": "agp-9-upgrade",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "build-system\\agp\\agp-9-upgrade",
+    "branch": null
+  }
+}

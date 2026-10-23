@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ee117f7b-97be-4d11-8e1c-1ddc6b41a134",
+  "path": "media3-cast-integration",
+  "path_key": "media3-cast-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "media\\media3-cast-integration",
+    "branch": null
+  }
+}

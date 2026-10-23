@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9dcfa297-b131-43fb-87ab-3257e7ce5089",
+  "path": "projected-hardware",
+  "path_key": "projected-hardware",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "xr\\projected-hardware",
+    "branch": null
+  }
+}

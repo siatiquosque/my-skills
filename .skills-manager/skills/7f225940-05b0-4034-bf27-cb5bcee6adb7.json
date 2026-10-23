@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7f225940-05b0-4034-bf27-cb5bcee6adb7",
+  "path": "swift-architecture",
+  "path_key": "swift-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "dpearson2699/swift-ios-skills/swift-architecture",
+    "subpath": "skills\\swift-architecture",
+    "branch": null
+  }
+}

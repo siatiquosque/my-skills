@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "120386ab-6ff0-4e47-b8e5-82198265e69e",
+  "path": "compose-state-and-effects",
+  "path_key": "compose-state-and-effects",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "chrisbanes/skills/compose-state-and-effects",
+    "subpath": "skills\\compose-state-and-effects",
+    "branch": null
+  }
+}

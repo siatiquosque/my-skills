@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bdc9e5aa-0a33-42cf-8fef-25fc11281f28",
+  "path": "play-policy-insights",
+  "path_key": "play-policy-insights",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "play\\play-policy-insights",
+    "branch": null
+  }
+}

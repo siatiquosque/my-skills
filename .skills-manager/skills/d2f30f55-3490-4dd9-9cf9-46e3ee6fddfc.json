@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d2f30f55-3490-4dd9-9cf9-46e3ee6fddfc",
+  "path": "camerax",
+  "path_key": "camerax",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "camera\\camerax",
+    "branch": null
+  }
+}

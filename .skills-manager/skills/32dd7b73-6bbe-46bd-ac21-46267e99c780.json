@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "32dd7b73-6bbe-46bd-ac21-46267e99c780",
+  "path": "android-for-cars-parked-apps",
+  "path_key": "android-for-cars-parked-apps",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "cars\\android-for-cars-parked-apps",
+    "branch": null
+  }
+}

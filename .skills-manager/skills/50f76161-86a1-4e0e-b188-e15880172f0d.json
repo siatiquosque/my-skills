@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "50f76161-86a1-4e0e-b188-e15880172f0d",
+  "path": "r8-analyzer",
+  "path_key": "r8-analyzer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "performance\\r8-analyzer",
+    "branch": null
+  }
+}

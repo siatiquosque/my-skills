@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f157e487-472e-4973-8ac2-37826387ac0a",
+  "path": "testing-setup",
+  "path_key": "testing-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "testing\\testing-setup",
+    "branch": null
+  }
+}

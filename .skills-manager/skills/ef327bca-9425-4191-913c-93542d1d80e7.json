@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ef327bca-9425-4191-913c-93542d1d80e7",
+  "path": "ml-kit-genai-prompt-api",
+  "path_key": "ml-kit-genai-prompt-api",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/android/skills",
+    "subpath": "device-ai\\ml-kit-genai-prompt-api",
+    "branch": null
+  }
+}
