@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ee9f622-abad-4082-8809-d0424f2d5264",
+  "path": "lean-build",
+  "path_key": "lean-build",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

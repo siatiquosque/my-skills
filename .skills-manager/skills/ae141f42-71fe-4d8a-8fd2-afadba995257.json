@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ae141f42-71fe-4d8a-8fd2-afadba995257",
+  "path": "ai-memory-learning-maintenance",
+  "path_key": "ai-memory-learning-maintenance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

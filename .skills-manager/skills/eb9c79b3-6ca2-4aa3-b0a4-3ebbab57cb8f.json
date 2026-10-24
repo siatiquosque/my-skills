@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eb9c79b3-6ca2-4aa3-b0a4-3ebbab57cb8f",
+  "path": "ai-memory-handoff",
+  "path_key": "ai-memory-handoff",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

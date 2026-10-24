@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b65f4d4-6488-42b3-988b-2efe36e174b6",
+  "path": "ultracave",
+  "path_key": "ultracave",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

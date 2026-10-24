@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "045a7751-1633-490a-ad5d-8e904970f674",
+  "path": "caveman-review",
+  "path_key": "caveman-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

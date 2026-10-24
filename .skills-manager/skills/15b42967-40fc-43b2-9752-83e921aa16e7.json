@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "15b42967-40fc-43b2-9752-83e921aa16e7",
+  "path": "surgical-patch",
+  "path_key": "surgical-patch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

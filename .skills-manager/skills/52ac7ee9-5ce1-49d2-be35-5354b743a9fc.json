@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "52ac7ee9-5ce1-49d2-be35-5354b743a9fc",
+  "path": "megacave",
+  "path_key": "megacave",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2483cea7-4b98-464c-b415-27de0783905b",
+  "path": "ai-memory-retrieval",
+  "path_key": "ai-memory-retrieval",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
